@@ -33,9 +33,9 @@ OVE is a specialized software designed for the creation, and customization of su
 
     Adjustable Speed: Alter the playback speed to review subtitles at different paces, especially helpful for precise timing adjustments.
 
-- Live previews
-- Fullscreen mode
-- Cross platform
+### Full-Screen Mode 
+
+    Full-screen mode is a crucial feature in video editing and subtitle edition applications, offering users an immersive and distraction-free environment to work on their projects. This mode maximizes the use of the display, providing a larger canvas for editors to focus 
 
 
 ## Run Locally
