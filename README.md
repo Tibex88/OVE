@@ -17,25 +17,26 @@ OVE is a specialized software designed for the creation, and customization of su
 ## Features (CURRENTLY IMPLEMENTED)
 
 ### Playback Controls:
-    Play/Pause: The ability to start and stop playback is essential for accurately timing subtitles.
-    Frame-by-Frame Navigation: Allows users to navigate through the video frame by frame for precise timing adjustments.
+
+Play/Pause: The ability to start and stop playback is essential for accurately timing subtitles.
+Frame-by-Frame Navigation: Allows users to navigate through the video frame by frame for precise timing adjustments.
 
 ### Timecode Display:
 
-    Current Timecode: A display showing the current timecode helps users align subtitles with specific moments in the video.
+Current Timecode: A display showing the current timecode helps users align subtitles with specific moments in the video.
 
 ### Zoom and Pan:
 
-    Zoom In/Out: Allows users to zoom in on the video timeline for more accurate timing adjustments.
-    Pan: Move the viewable area along the timeline to focus on specific segments of the video.
+Zoom In/Out: Allows users to zoom in on the video timeline for more accurate timing adjustments.
+Pan: Move the viewable area along the timeline to focus on specific segments of the video.
 
 ### Playback Speed Control:
 
-    Adjustable Speed: Alter the playback speed to review subtitles at different paces, especially helpful for precise timing adjustments.
+Adjustable Speed: Alter the playback speed to review subtitles at different paces, especially helpful for precise timing adjustments.
 
 ### Full-Screen Mode 
 
-    Full-screen mode is a crucial feature in video editing and subtitle edition applications, offering users an immersive and distraction-free environment to work on their projects. This mode maximizes the use of the display, providing a larger canvas for editors to focus 
+Full-screen mode is a crucial feature in video editing and subtitle edition applications, offering users an immersive and distraction-free environment to work on their projects. This mode maximizes the use of the display, providing a larger canvas for editors to focus 
 
 
 ## Run Locally
