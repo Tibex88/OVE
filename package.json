@@ -10,7 +10,14 @@
   },
   "dependencies": {
     "artplayer": "^5.0.9",
-    "vue": "^3.3.11"
+    "vue": "^3.3.11",
+    "@floating-ui/dom": "^1.0.12",
+    "autosize": "^5.0.2",
+    "srt-parser-2": "^1.1.8",
+    "subtitles-parser-vtt": "^0.1.0",
+    "vue-router": "^4.1.5",
+    "vue3-keypress": "^4.0.1",
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
