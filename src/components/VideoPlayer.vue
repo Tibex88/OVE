@@ -3,6 +3,7 @@
 import Artplayer from "artplayer";
 
 export default{
+  props: ["art"],
     data() {
         return {
           instance: null,

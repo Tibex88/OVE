@@ -2,22 +2,22 @@
 
  <div class="full-grid">
     <div id="item-1" class="bg-blueGray border ">
-      <ActionPanel />
+      <ActionPanel :art="art" v-model:subtitle="subtitle" />
       <VideoPlayer
         class="video_player"
-        art=null
+        :art="art"
         :style="style"
         url="./assets/movie/1.mp4"
         :class="m-auto"
       />
     </div>
     <div id="item-2" class="bg-blueGray border">
-      <ActionPanel />
+      <!-- <ActionPanel /> -->
       <ScriptViewerVue v-model:subtitle="subtitle" />
     </div>
     <div id="resizer"></div>
     <div id="item-3" class="bg-blueGray border">
-      <ActionPanel />
+      <!-- <ActionPanel /> -->
       <EditorTableVue 
         :art="art"
         v-model:subtitle="subtitle"

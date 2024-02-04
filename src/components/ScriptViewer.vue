@@ -1,8 +1,9 @@
 <template>
     <div class="script-container">
-      <!-- <div class="script-menu">
+      <ActionPanel />
+      <div class="script-menu">
         <button @click="copyToClipboard">Copy</button>
-        <button @click="saveSub()">Save</button>
+        <!-- <button @click="saveSub()">Save</button> -->
         <div>
           <div ref="dropDown" class="drop-down">
             <button>with table</button>
@@ -12,7 +13,7 @@
         <div>
           <button @click="toggleFullscreen">FullScreen</button>
         </div>
-      </div> -->
+      </div>
       <div class="main" accesskey="s" ref="script">
         <div v-if="subtitle" ref="line" class="line">
           <span
@@ -46,6 +47,7 @@
   
   <script>
   import { timestampToSeconds } from "./../assets/js";
+  
   
   export default {
     components: {},
