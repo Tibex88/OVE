@@ -44,6 +44,15 @@ Loads at most (2x)  subtitle file(s) and aloows merging deletion and adding a ne
 View timestamp and marking time features  
 
 
+### Script Viewer
+
+A section that enables the user to view in fullscreen or copy a script version of the edited subtitle
+
+
+### Saving Features
+
+Functions that enable to copy the script as text, save as an SRT file and loading subtitle and movie files
+
 ## Run Locally
 
 Clone the project
