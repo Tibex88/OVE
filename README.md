@@ -36,7 +36,12 @@ Adjustable Speed: Alter the playback speed to review subtitles at different pace
 
 ### Full-Screen Mode 
 
-Full-screen mode is a crucial feature in video editing and subtitle edition applications, offering users an immersive and distraction-free environment to work on their projects. This mode maximizes the use of the display, providing a larger canvas for editors to focus 
+Full-screen mode is a crucial feature in video editing and subtitle edition applications, offering users an immersive and distraction-free environment to work on their projects. This mode maximizes the use of the display, providing a larger canvas for editors to focus
+
+### Subtitle Viewer and Editor
+
+Loads at most (2x)  subtitle file(s) and aloows merging deletion and adding a new subtitle at any point in the file
+View timestamp and marking time features  
 
 
 ## Run Locally
