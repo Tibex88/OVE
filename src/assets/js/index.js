@@ -15,13 +15,13 @@ export function  fromVtt  (data, timeFormat, isYoutubeAutoTranscript) {
     console.log(data);
     for (var i = 0; i < data.length; i += 4) {
       var text = data[i + 3];
-    //   console.log({text});
+   
       if (useYoutubeAutoTranscript) {
         text = text.split("\n");
         text.shift();
         text = text.join("\n");
       }
-    //   console.log(text);
+   
       if (text.trim().length === 0) continue;
       items.push({
         id: data[i] ? data[i].trim() : items.length + 1,
@@ -60,4 +60,4 @@ export function  fromVtt  (data, timeFormat, isYoutubeAutoTranscript) {
     return parts[1] * 3600000 + parts[2] * 60000 + parts[3] * 1000 + parts[4];
   };
 
-// export {timestampToSeconds, fromVtt}
+
