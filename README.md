@@ -1,3 +1,12 @@
+Group members
+Leulseged Bekele................ETS1014/12
+Natan Mekbib................ETS1029/12
+Tibebe Solomon................ETS0634/12
+Tina Dessu................ET0637/12
+Tsion Tesfaye................ETS0645/12
+
+Section D
+
 # Online Video Editor(OVE)
 
 OVE is a specialized software designed for the creation, and customization of subtitles in multimedia content such as videos and films. The primary goal is to provide users with a user-friendly platform to enhance and optimize the subtitle experience in a variety of media formats.
