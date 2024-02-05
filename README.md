@@ -1,11 +1,4 @@
-Group members
-Leulseged Bekele................ETS1014/12
-Natan Mekbib................ETS1029/12
-Tibebe Solomon................ETS0634/12
-Tina Dessu................ET0637/12
-Tsion Tesfaye................ETS0645/12
 
-Section D
 
 # Online Video Editor(OVE)
 
